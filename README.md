@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pramodkumar Marripedda
 - 👀 Geospatial data Scientist & Climate modelling
-- 🌱 I’m currently learning ...ML/AI for GIS
 - 💞️Python,GIS,Hydrology,Climate Change
 
 
